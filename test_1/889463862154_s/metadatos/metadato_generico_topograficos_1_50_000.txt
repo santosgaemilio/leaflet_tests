@@ -1,0 +1,34 @@
+Identifier:
+
+Title: Conjunto de Datos Vectoriales de Información Topográfica a Escala 1:50 000, 2022
+
+Description: INEGI. Conjunto de Datos Vectoriales de Información Topográfica a Escala 1:50 000, 2022. SNIEG. Información de Interés Nacional.
+
+Contienen información como curvas de nivel, hidrografía, vías de comunicación, localidades, entre otros. Estos rasgos son representados digitalmente por un componente geométrico (puntos, líneas o áreas) y componentes descriptivos (los atributos del dato). Los topónimos o nombres geográficos se incluyen como atributos propios de cada uno de los datos que conforman cada conjunto de datos y que por su naturaleza los requieren. El conjunto de datos del año 2021 contiene la actualización completa del conjunto de información.
+
+Nota: Registro en trámite ante el Instituto Nacional del Derecho de Autor.
+
+Modified: 2023-03-01
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion@usuarios.inegi.org.mx
+
+License: Términos de Libre Uso de la Información del INEGI https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary:
+https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=889463908746
+
+Keyword: "bordo", "camino", "canal", "carretera", "cementerio", "corriente de agua", "corriente que desaparece", "cuerpo de agua", "curva de nivel", "edificación", "estación de ferrocarril", "estación de telecomunicación", "estación geodésica horizontal", "estación geodésica vertical o banco de nivel", "granja", "línea de transmisión", "localidad", "puente", "punto acotado", "referencia geográfica", "terreno sujeto a inundación", "vía férrea"
+
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 46 34
+
+Temporal: 2022
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Irregular: Los datos se actualizan en intervalos desiguales.
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=186&esc=1
+
