@@ -1,4 +1,14 @@
 #map { 
     height: 45rem; 
-    
+    border-style: solid;
+}
+
+#titulo{
+    margin-top: 2%;
+    margin-bottom: 2%;
+   
+}
+
+#buttons{
+    margin-top: 2%;
 }
