@@ -6,7 +6,7 @@ var map = L.map('map').setView([25.686768, -100.319040], 11);
 // }).addTo(map);
 
 var base = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
+    maxZoom: 25,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
