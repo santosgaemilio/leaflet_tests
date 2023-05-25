@@ -48,8 +48,12 @@ fetch('monterrey.geojson')
   })
 
  
+// TEST DE IMAGEN | IMAGEN MUY GRANDE
+var imageUrl = 'foto4.png',
+    imageBounds = [[25.696315,-100.273014], [25.692045,-100.266903]];
+L.imageOverlay(imageUrl, imageBounds).addTo(map);
 
-
+var img_new = L.marker([25.696315,-100.273014], [25.692045,-100.266903]).bindPopup("Citadel").addTo(map);
 
 
   // var geojsonFilePath = './monterrey.geojson';
